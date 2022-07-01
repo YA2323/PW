@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b43fa2b-2760-4a26-84ff-d66c71914622" name="Changes" comment="Password">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PwTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PwTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656669762946</updated>
-      <workItem from="1656669764242" duration="1297000" />
+      <workItem from="1656669764242" duration="1616000" />
     </task>
     <task id="LOCAL-00001" summary="Password">
       <created>1656670898952</created>
@@ -70,7 +69,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656670898952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Password">
+      <created>1656671121578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656671121579</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Password">
+      <created>1656671182935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656671182935</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Password">
+      <created>1656671294062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656671294062</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
