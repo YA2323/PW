@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b43fa2b-2760-4a26-84ff-d66c71914622" name="Changes" comment="Password">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/pwv.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/pwv.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PwVal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PwVal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PwTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PwTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PwTest.pwTest">
     <configuration name="PwVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PwVal" />
       <module name="PwVal" />
@@ -46,8 +48,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PwTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PwVal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PwTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PwTest.pwTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PwVal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PwTest" />
+      <option name="METHOD_NAME" value="pwTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PwTest.pwTest" />
+        <item itemvalue="JUnit.PwTest" />
         <item itemvalue="Application.PwVal" />
       </list>
     </recent_temporary>
@@ -60,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656669762946</updated>
-      <workItem from="1656669764242" duration="2039000" />
+      <workItem from="1656669764242" duration="6482000" />
     </task>
     <task id="LOCAL-00001" summary="Password">
       <created>1656670898952</created>
@@ -97,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656671500950</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Password">
+      <created>1656671813946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656671813946</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
